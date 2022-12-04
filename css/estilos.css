@@ -1,0 +1,18 @@
+#details {
+    background-color: darkseagreen;
+}
+
+.parrafoResaltado {
+    font-size: 24px;
+    padding: 40px;
+border: double 6px blueviolet;
+border-radius: 10px;
+background-color: chartreuse;
+margin: 20px; 
+}
+
+#parrafoEspecial {
+background-color: cornflowerblue;
+border-radius: 80px; 
+padding: 50px;
+}
